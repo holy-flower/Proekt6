@@ -10,7 +10,7 @@
         android:id="@+id/muthroom"
         android:layout_width="300dp"
         android:layout_height="300dp"
-        android:src="@drawable/muthrooms"
+        android:src="@drawable/muthroom"
         tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
